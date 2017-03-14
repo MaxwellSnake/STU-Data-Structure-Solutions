@@ -6,7 +6,7 @@ int binary_search(int [], int, int);
 int main(int argc, char *argv[]) {
 	//元素的位置对应其在数组中的下标
 	//find测试
-	int a[10] = {12,23,56,7865,5723,234,235};
+	int a[10] = {12,23,56,7865,5723,234,235,257,222};
 	printf("%d\n",find(a, 234));	
 	//binary_search测试
 	int b[10] = {1,3,5,7,9,12,14,16,18};
